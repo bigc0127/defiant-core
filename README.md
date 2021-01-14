@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.org/brave/brave-core.svg?branch=master)](https://travis-ci.org/brave/brave-core)
 
-# Brave Core
+# Defiant Core
 
-Brave Core is a set of changes, APIs, and scripts used for customizing Chromium to make Brave.
+Defiant Core is based on Brave core which is a set of changes, APIs, and scripts used for customizing Chromium to make Brave and ultimately Dissenter.
 
 Follow [@brave](https://twitter.com/brave) on Twitter for important
-announcements.
+announcements from brave.
 
 ## Resources
 
